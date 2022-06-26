@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Check-Weather/static/css/main.6c00196c.css",
+    "main.js": "/Check-Weather/static/js/main.c4579b09.js",
+    "static/js/787.7402d532.chunk.js": "/Check-Weather/static/js/787.7402d532.chunk.js",
+    "index.html": "/Check-Weather/index.html",
+    "main.6c00196c.css.map": "/Check-Weather/static/css/main.6c00196c.css.map",
+    "main.c4579b09.js.map": "/Check-Weather/static/js/main.c4579b09.js.map",
+    "787.7402d532.chunk.js.map": "/Check-Weather/static/js/787.7402d532.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c00196c.css",
+    "static/js/main.c4579b09.js"
+  ]
+}
